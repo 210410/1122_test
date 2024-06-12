@@ -92,7 +92,7 @@ const router = createBrowserRouter([
   },
 ]);
 
-const App_xx = () => {
+const App_04 = () => {
   return (
     <QueryClientProvider client={queryClient}>
       <GlobalStyles />
@@ -122,4 +122,4 @@ const App_xx = () => {
   );
 };
 
-export default App_xx;
+export default App_04;

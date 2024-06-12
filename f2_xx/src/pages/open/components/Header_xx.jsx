@@ -7,7 +7,7 @@ const Header_xx = () => {
         <div className='flex justify-between items-center max-w-7xl mx-auto'>
           <Link className='flex items-center gap-4 z-10' to='/'>
             <img width='60' height='60' src='/logo.webp' />
-            <span>The Wild Oasis (htc, 123456789)</span>
+            <span>The Wild Oasis (wei chen, 210410204)</span>
           </Link>
           <nav className='z-10 text-xl'>
             <ul className='flex gap-8 items-center'>
@@ -16,7 +16,7 @@ const Header_xx = () => {
                   className='text-slate-500 p-3 hover:bg-slate-200 transition-colors'
                   to='/'
                 >
-                  Home_xx
+                  Home_04
                 </Link>
               </li>
               <li>
